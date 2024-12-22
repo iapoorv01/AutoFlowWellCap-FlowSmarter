@@ -6,7 +6,7 @@
 #include <SD.h>
 #include <SPI.h>
 
-#define CS_PIN 5  // Replace 5 with the correct pin if needed
+#define CS_PIN 5  
 
 const char* ssid = "SIH_2024_07";
 const char* password = "1234567@";
