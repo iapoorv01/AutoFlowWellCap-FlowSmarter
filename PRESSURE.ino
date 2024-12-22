@@ -8,10 +8,10 @@
 
 #define CS_PIN 5  
 
-const char* ssid = "SIH_2024_07";
-const char* password = "1234567@";
-const char* serverIP = "192.168.0.230";
-const int serverPort = 11112;
+const char* ssid = "SSID";
+const char* password = "pass";
+const char* serverIP = "ServerIP";
+const int serverPort = ServerPort;
 
 //Input pins
 const int pressurePin = A0;
