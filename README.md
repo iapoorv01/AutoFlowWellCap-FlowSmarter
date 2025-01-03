@@ -49,7 +49,7 @@ To get started with the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-iot-autoflow-well-system.git
+   git clone https://github.com/iapoorv01/AutoFlowWellCap-FlowSmarter.git
    ```
 
 2. Navigate to the project directory:
